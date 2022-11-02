@@ -1,4 +1,2 @@
 # Twitch
-# Twitch
-# Twitch
-# Twitch
+“I spent yesterday learning a lot. I first watched https://youtu.be/VywxIQ2ZXw4 to learn more about requests/HTTP, then today I wanted to put it to use but obviously Cheeseboard doesn't have an API so I thought I'd get some practice just straight scraping HTML. I knew requests/BS4 is the standard for, well, requests, and parsing HTML, so I then watched this: https://youtu.be/XVv6mJpFOb0 and got the basics down. Then I played around with different BS4 functions to see their outputs and how I could navigate through the HTML I spent yesterday learning a lot. I first watched https://youtu.be/VywxIQ2ZXw4 to learn more about requests/HTTP, then today I wanted to put it to use but obviously Cheeseboard doesn't have an API so I thought I'd get some practice just straight scraping HTML. I knew requests/BS4 is the standard for, well, requests, and parsing HTML, so I then watched this: https://youtu.be/XVv6mJpFOb0 and got the basics down. Then I played around with different BS4 functions to see their outputs and how I could navigate through the HTML”
