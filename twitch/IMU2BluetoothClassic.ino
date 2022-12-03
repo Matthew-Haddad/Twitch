@@ -25,7 +25,7 @@ void setup(void) {
     
   pixels.begin();
   Serial.begin(115200);
-  SerialBT.begin("Quake Sensor");
+  SerialBT.begin("Twitch Sensor");
   Serial.println("Bluetooth Started! Ready to pair...");
   
   while (!Serial)
