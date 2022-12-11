@@ -1,0 +1,3 @@
+{name}, 
+{patient_name}'s Quake monitor has detected a seizure with {confidence}% confidence.
+You are being informed as {patient_pronoun} {relation}.
